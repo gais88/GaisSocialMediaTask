@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GaisSocialMediaTask.Api", "GaisSocialMediaTask\GaisSocialMediaTask.Api.csproj", "{4C5F63DB-D1F5-41E1-87FD-99CFAEE6B218}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GaisSocialMediaTask.Core", "GaisSocialMediaTask.Core\GaisSocialMediaTask.Core.csproj", "{4710D02D-A1F1-4DD4-830A-E82361F4CE35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GaisSocialMediaTask.Data", "GaisSocialMediaTask.Data\GaisSocialMediaTask.Data.csproj", "{52713319-500C-4E88-9654-0ADAF79E472C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C5F63DB-D1F5-41E1-87FD-99CFAEE6B218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C5F63DB-D1F5-41E1-87FD-99CFAEE6B218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C5F63DB-D1F5-41E1-87FD-99CFAEE6B218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C5F63DB-D1F5-41E1-87FD-99CFAEE6B218}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4710D02D-A1F1-4DD4-830A-E82361F4CE35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4710D02D-A1F1-4DD4-830A-E82361F4CE35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4710D02D-A1F1-4DD4-830A-E82361F4CE35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4710D02D-A1F1-4DD4-830A-E82361F4CE35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52713319-500C-4E88-9654-0ADAF79E472C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52713319-500C-4E88-9654-0ADAF79E472C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52713319-500C-4E88-9654-0ADAF79E472C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52713319-500C-4E88-9654-0ADAF79E472C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D84B9B3C-2C1F-44DF-BF66-5952A0F53046}
+	EndGlobalSection
+EndGlobal
